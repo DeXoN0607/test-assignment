@@ -28,7 +28,6 @@ tsconfig.tsbuildinfo
 /.eslintcache
 /junit.xml
 /*.tsbuildinfo
-/tsconfig.*.json
 !/tsconfig.base.json
 
 .ai

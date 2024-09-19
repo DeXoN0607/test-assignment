@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "types": ["cypress", "node", "cypress-real-events"],
+    "skipLibCheck": true
+  },
+  "include": ["./cypress.config.ts", "./cypress", "typings.d.ts"]
+}
